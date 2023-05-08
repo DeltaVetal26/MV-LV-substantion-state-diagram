@@ -9,6 +9,11 @@ MV/LV substation state diagram based on D3
 </p>
 
 Built on the basis of [D3 - Data-Driven Documents](https://github.com/d3/d3)., the state of the switches can be changed, the readings of measuring instruments can be changed through the flags in the file.
+Demo
+
+<p align="center">
+  <img src="https://github.com/DeltaVetal26/MV-LV-substation-state-diagram/blob/main/content/demo.gif?raw=true">
+</p>
 
 
 
