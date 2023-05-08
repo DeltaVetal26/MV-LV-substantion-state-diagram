@@ -1,4 +1,4 @@
-# MV-LV-substantion-state-diagram
+# MV-LV-substation-state-diagram
 MV/LV substation state diagram based on D3
 
 ![](https://badgen.net/badge/Status/Completed/green?icon=github)
